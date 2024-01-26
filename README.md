@@ -8,3 +8,16 @@ Update Version:
 ![image](https://github.com/Jolin-123/Todo-List-MongoDB/assets/101018568/166ec565-77ea-4d14-95c6-55b33319a02f)
 
 
+
+
+
+Oct 2023    <br/>
+
+To run the project     <br/>
+./Backend npm start    <br/>
+
+./Frontend         <br/>
+npm install        <br/>
+npm run dev        <br/>
+
+
